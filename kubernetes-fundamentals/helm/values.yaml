@@ -1,0 +1,4 @@
+replicaCount: 3
+podLabels:
+  hello: world
+
